@@ -1,10 +1,12 @@
 🌱 ReciclaTech - Uma Segunda Vida aos Seus Eletrônicos
 
+
 🚀 Sobre o Projeto:
 
 O ReciclaTech é um projeto desenvolvido no curso Vai na Web e representa a minha execução do desafio proposto: transformar um protótipo estático do Figma em um site real, funcional e totalmente responsivo, utilizando HTML e SCSS puro.
 
 O objetivo central é incentivar a doação de eletrônicos, conectando quem deseja doar com quem realmente precisa. Assim, o projeto promove ativamente a sustentabilidade e gera um impacto social positivo.
+
 
 💡 Desafios Vencidos:
 
@@ -18,6 +20,7 @@ Organização de Código: Manter um código HTML e SCSS puro limpo, claro e esca
 
 Performance: Criar um site moderno e funcional utilizando apenas tecnologias básicas.
 
+
 🛠 Tecnologias Utilizadas:
 
 Para a execução deste projeto, foiram utilizadas as seguintes tecnologias principais:
@@ -30,10 +33,11 @@ CSS3
 
 Imagens e ícones próprios para a interface.
 
-🌐 Links do Projeto
-Vercel (Deploy do site): [INSERIR SEU LINK DE DEPLOY AQUI] (em construção)
 
-Repositório: [INSERIR LINK DESTE REPOSITÓRIO]
+🌐 Links do Projeto:
+
+Vercel (Deploy do site): recicla-tech-amber-kappa.vercel.app (em construção)
+
 
 🙌 Agradecimentos e Aprendizados:
 
